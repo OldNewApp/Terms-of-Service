@@ -51,7 +51,7 @@
 
 <body>
     <header>
-        <h1>Terms of Service for OldNew App</h1>
+        <h1>OldNew App</h1>
     </header>
 
     <main>
